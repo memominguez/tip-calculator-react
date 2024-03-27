@@ -35,8 +35,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Pending
-- Live Site URL: Pending
+
+- Solution URL:  [Github repository](https://github.com/memominguez/tip-calculator-react)
+- Live Site URL:  [Netlify](https://group-tip-calculator.netlify.app)
 
 ## My process
 
